@@ -11,8 +11,8 @@
 [!(./img/linkedin-light.svg)](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/r#gh-light-mode-only)
 [!(./img/linkedin-dark.svg)](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/shinixxhi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/shinxxhi#gh-dark-mode-only)
+[!(./img/instagram-light.svg)](https://instagram.com/shinixxhi#gh-light-mode-only)
+[!(./img/instagram-dark.svg)](https://instagram.com/shinxxhi#gh-dark-mode-only)
 
 ### Languages and Tools:
 
