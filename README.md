@@ -16,9 +16,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Pytorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Scikit-Learn" width="26px" src="https://github.com/doxg/ml-logos/blob/master/scikit-learn.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Pytorch" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Pandas" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Scikit-Learn" width="52px" src="https://github.com/doxg/ml-logos/blob/master/scikit-learn.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
