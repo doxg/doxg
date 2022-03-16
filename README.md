@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning a lot of stuff (Django, PostgreSql)
 - 👯 I’m looking to collaborate on SW projects
 - 💬 Ask me about anything. 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me: [<img alt="LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/r#gh-light-mode-only)
+- ⚡ Fun fact: Almost drowned before learning swimming. 
+- 📫 How to reach me: [<img alt="LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/r#gh-light-mode-only) &nbsp;&nbsp;
 [<img alt="Instagram" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />](https://instagram.com/shinixxhi/r#gh-dark-mode-only)
 
 ### Languages and Tools:
