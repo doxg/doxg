@@ -16,6 +16,8 @@
 
 ### Languages and Tools:
 
+
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Pytorch" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Pandas" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Scikit-Learn" width="52px" src="https://github.com/doxg/ml-logos/blob/master/scikit-learn.svg" style="padding-right:10px;" />]
