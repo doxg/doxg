@@ -8,7 +8,10 @@
 - ⚡ Fun fact: ...
 - 📫 How to reach me:
 
-[!(./img/linkedin-light.svg)](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/r#gh-light-mode-only)
+[![name](link to image on GH)](link to your URL)
+
+
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/r#gh-light-mode-only)
 [!(./img/linkedin-dark.svg)](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [!(./img/instagram-light.svg)](https://instagram.com/shinixxhi#gh-light-mode-only)
