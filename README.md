@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**doxg/doxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on time series predictions
 - 🌱 I’m currently learning a lot of stuff (Django, PostgreSql)
 - 👯 I’m looking to collaborate on SW projects
