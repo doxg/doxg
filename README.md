@@ -12,6 +12,7 @@
 
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/r#gh-light-mode-only)
+[<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/r#gh-light-mode-only)
 [!(./img/linkedin-dark.svg)](https://linkedin.com/in/dastan-zhumazhanov-43bb36143/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [!(./img/instagram-light.svg)](https://instagram.com/shinixxhi#gh-light-mode-only)
