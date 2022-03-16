@@ -15,6 +15,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/shinxxhi#gh-dark-mode-only)
 
 ### Languages and Tools:
+
 [<img align="left" alt="Pytorch" width="26px" src="https://github.com/doxg/ml-logos/blob/master/pytorch.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Pandas" width="26px" src="https://github.com/doxg/ml-logos/blob/master/pandas.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Scikit-Learn" width="26px" src="https://github.com/doxg/ml-logos/blob/master/scikit-learn.svg" style="padding-right:10px;" />]
