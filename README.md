@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on time series predictions
+- 🔭 I’m currently working on various AI models' development and deployment.
 - 🌱 I’m currently learning a lot of stuff (LLMs,APIs of SOTA models, load balancing and etc.)
 - 👯 I’m looking to collaborate on SW projects
 - 💬 Ask me about anything. 
