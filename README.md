@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on time series predictions
-- 🌱 I’m currently learning a lot of stuff (Django, PostgreSql, NestJs)
+- 🌱 I’m currently learning a lot of stuff (LLMs,APIs of SOTA models, load balancing and etc.)
 - 👯 I’m looking to collaborate on SW projects
 - 💬 Ask me about anything. 
 - ⚡ Fun fact: Almost drowned before learning swimming. 
