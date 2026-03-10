@@ -64,10 +64,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />                                
    
   <br /><br />                                                                                                    
-                  
-  The swimming line ties back to your original fun fact but lands differently now — "every lap is a benchmark"    
-  fits the engineering mindset. The C++ and CUDA lines give off genuine depth without being a skills list. The
-  "arXiv this week" line is a subtle flex that anyone in ML will recognize.
 
 <!-- 
   <img align="left" alt="Dastan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=doxg&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
