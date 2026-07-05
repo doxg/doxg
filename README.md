@@ -9,7 +9,6 @@
     digging deep into inference optimization, quantization, and efficient serving of large AI models.
   - **Currently exploring** distributed systems and MLOps infrastructure: how do you actually                     
     keep a billion-parameter model alive under real production load?                                              
-  - **Writing C++** because some problems deserve to be solved fast. Like, *really* fast.                         
   - **Always learning** — currently: CUDA kernels, vLLM internals, and whatever paper                             
     dropped on arXiv this week.                                                                                   
   - **Outside the terminal** — I swim. Competitively against myself. Every lap is a benchmark.                    
